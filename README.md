@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Alves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Alves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img align ='center' scr='https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript'>
 </div>
 
   <a href="https://www.instagram.com/gaalvesj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
