@@ -2,7 +2,7 @@
 ### I'm Gabriel Alves 😃
 
 - 🔭 I'm future web developer Fullstack
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning  React
 - 📫 How to reach me: gabrielalves3654@gmail.com 
 - 📍 My Linkedin: https://www.linkedin.com/in/gabriel-alves-a66b63213/ 
 <div align="center">
