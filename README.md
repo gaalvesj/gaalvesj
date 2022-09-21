@@ -1,13 +1,12 @@
 ### Heyy there 👋 
 ### I'm Gabriel Alves 😃
 
-- 🔭 I'm future web developer Fullstack
 - 🌱 I’m currently learning  React
 - 📫 How to reach me: gabrielalves3654@gmail.com 
 - 📍 My Linkedin: https://www.linkedin.com/in/gabriel-alves-a66b63213/ 
 <div align="center">
   <a href="https://github.com/gaalvesj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaalvesj&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaalvesj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaalvesj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
