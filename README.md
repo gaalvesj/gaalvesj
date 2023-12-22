@@ -1,7 +1,6 @@
 ### Heyy there 👋 
 ### I'm Gabriel Alves 😃
 
-- 🌱 I’m currently learning  Node.js
 - 📫 How to reach me: gabrielalves3654@gmail.com 
 - 📍 My Linkedin: https://www.linkedin.com/in/gabriel-alves-a66b63213/ 
 <div align="center">
